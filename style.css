@@ -21,9 +21,6 @@ body{
   
   
 }
-.container p{
-  width: 300px;
-}
-.container img{
+.card{
   width: 300px;
 }
