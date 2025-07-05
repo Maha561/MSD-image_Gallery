@@ -16,11 +16,22 @@ body{
   margin: 0;
   padding: 0;
   font-family: "Roboto",sans-serif;
+  
 }
 .container{
-  
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
   
 }
-.card{
+.card p{
   width: 300px;
+  
+}
+.card img{
+  width: 300px;
+  height: 400px;
+  margin-top: 15px;
+  padding-right: 25px;
+
 }
